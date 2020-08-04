@@ -1,0 +1,7 @@
+Heroes Of Pymoli Data Analysis:
+
+1.) According to the data the age group 20-24 had the highest purchase’s but also bought the lower priced items.
+
+2.) The data also shows the age group of 40+ spend more and had the highest return of business.
+
+3.) Finally, data conveyed the "other/non-disclosed" gender group had the highest average purchase.
